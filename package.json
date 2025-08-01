@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "node reddit_puller.js"
+  },
   "dependencies": {
+    "dotenv": "^17.2.1",
     "get-json": "^1.1.0",
     "html-entities": "^2.6.0",
     "request": "^2.88.2",
